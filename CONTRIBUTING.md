@@ -6,7 +6,7 @@ Please read and understand the contribution guide and code of conduct before con
 
 ## Reporting Issues
 
-If you find a bug in our projects, please open a new issue on GitHub and provide a detailed description of the issue. Please make sure to check if the issue has been reported previously before creating a new issue.
+If you find a bug in our projects, please open a new issue on GitHub and provide a detailed description of the issue. Please make sure to **check if the issue has been reported previously** before creating a new issue.
 
 ## Proposing New Features
 
@@ -14,9 +14,9 @@ If you'd like to propose a new feature or enhancement for our projects, please o
 
 ## Viability
 
-Before contributing to our projects, please ensure the proposed changes are viable and align with the project's goals and objectives. Who may have entirely different needs and goals.
+Before contributing to our projects, please ensure the proposed changes are viable and align with the project's goals and objectives. 
 
-Please consider your changes' impact on the project and its users.
+Who may have entirely different needs and goals. Please consider your changes' impact on the project and its users.
 
 ## Contributing Code
 
