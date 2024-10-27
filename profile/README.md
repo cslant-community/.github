@@ -11,6 +11,7 @@ We are a community of developers, designers and makers who love to share knowled
 ##  📥 Projects
 
 - [Telegram Git Notifier](https://github.com/cslant/laravel-telegram-git-notifier) - A Laravel package to send Telegram notifications on GitHub and GitLab push events.
+- [Laravel Like](https://github.com/cslant/laravel-like) - A Laravel package to add interaction functionality to your Eloquent models.
 
 ## 📖 Official Documentation
 
