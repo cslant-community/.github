@@ -11,6 +11,7 @@ We are a community of developers, designers, and makers who love to share knowle
 > Additionally:
 > - We use another organization specifically for super admins. https://github.com/cslant-admin
 > - We use this organization for public activities when necessary. https://github.com/cslant-community
+> - We also have our own source code control system at https://git.cslant.com
 
 ##  📥 Projects
 
